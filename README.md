@@ -9,9 +9,9 @@
 * An "impossible" statement will be printed if matrix cannot be solved.
 * Moves within the matrix are: move up = 1, move right = 2, move down = 3, and move left = 4.
 
-![](images/Screenshot%202021-11-09%20124414.png)
-![](images/Screenshot%202021-11-09%20130251.png)
-![](images/Screenshot%202021-11-09%20130400.png)
+![](/images/Screenshot%202021-11-09%20124414.png)
+![](/images/Screenshot%202021-11-09%20130251.png)
+![](/images/Screenshot%202021-11-09%20130400.png)
 
 
 # [Project 2: Message Decoder: Project Overview](https://github.com/CalebBal/Message_decoder)
@@ -21,8 +21,8 @@
 * Any commands with a higher priority before the coded message was read is disregarded.
 * Printed the decoded message to an output file once all commands have been read.
 
-![](images/Screenshot%202021-11-09%20112910.png)
-![](images/Screenshot%202021-11-09%20112926.png)
+![](/images/Screenshot%202021-11-09%20112910.png)
+![](/images/Screenshot%202021-11-09%20112926.png)
 
 
 # [Project 3: Problem Organizer Using Linked Lists: Project Overview](https://github.com/CalebBal/problem_organizer)
@@ -32,6 +32,6 @@
 * Read in commands for adjusting the list of problems from another input file.
 * Printed out the final sorted list after all the commands were executed.
 
-![](images/Screenshot%202021-11-09%20131621.png)
-![](images/Screenshot%202021-11-09%20131645.png)
-![](images/Screenshot%202021-11-09%20131805.png)
+![](/images/Screenshot%202021-11-09%20131621.png)
+![](/images/Screenshot%202021-11-09%20131645.png)
+![](/images/Screenshot%202021-11-09%20131805.png)
