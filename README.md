@@ -9,9 +9,9 @@
 * An "impossible" statement will be printed if matrix cannot be solved.
 * Moves within the matrix are: move up = 1, move right = 2, move down = 3, and move left = 4.
 
-![](images/Screenshot%202021-11-09%20124414.png)
-![](images/Screenshot%202021-11-09%20130251.png)
-![](images/Screenshot%202021-11-09%20130400.png)
+![](Screenshot%202021-11-09%20124414.png)
+![](Screenshot%202021-11-09%20130251.png)
+![](Screenshot%202021-11-09%20130400.png)
 
 
 # [Project 2: Message Decoder: Project Overview](https://github.com/CalebBal/Message_decoder)
