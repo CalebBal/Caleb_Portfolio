@@ -7,6 +7,7 @@
 * Program generates random moves until 2048 is reached or all the non-zero numbers have been added and outputs shortest path.
 * Designed the program to keep 2048 stationary if 2048 was read in from the matrix input file.
 * An "impossible" statement will be printed if matrix cannot be solved or shortest path of moves will be printed.
+* Moves within the matrix are: move up = 1, move right = 2, move down = 3, and move left = 4.
 
 ![](https://github.com/CalebBal/Caleb_Portfolio/blob/main/images/Screenshot%202021-11-09%20124414.png)
 ![](https://github.com/CalebBal/Caleb_Portfolio/blob/main/images/Screenshot%202021-11-09%20130251.png)
