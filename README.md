@@ -1,7 +1,7 @@
 # Caleb_Portfolio
 
 
-# Project 1: Shortest Amount of Moves Finder to Win 2048: Project Overview
+# [Project 1: Shortest Amount of Moves Finder to Win 2048: Project Overview](https://github.com/CalebBal/Shortest_Path_to_2048)
 * Created an algorithm that finds the shortest amount of moves it would take to reach 2048.
 * Reads a matrix of numbers from a file and the number of non-zero numbers in the matrix is given.
 * Program generates random moves until 2048 is reached and outputs shortest path.
