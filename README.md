@@ -17,7 +17,7 @@
 # [Project 2: Message Decoder: Project Overview](https://github.com/CalebBal/Message_decoder)
 * Created an algorithm that decodes messages with the commands given from an input file.
 * Reads in a coded message and all the commands from an input file.
-* Shorted all the commands based on the priority level given in the input file.
+* Sorted all the commands based on the priority level given in the input file.
 * Any commands with a higher priority before the coded message was read is disregarded.
 * Printed the decoded message to an output file once all commands have been read.
 
