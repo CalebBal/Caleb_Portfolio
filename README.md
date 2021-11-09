@@ -25,7 +25,7 @@
 ![](https://github.com/CalebBal/Caleb_Portfolio/blob/main/images/Screenshot%202021-11-09%20112926.png)
 
 
-#[Project 3: Problem Organizer Using Linked Lists: Project Overview](https://github.com/CalebBal/problem_organizer)
+# [Project 3: Problem Organizer Using Linked Lists: Project Overview](https://github.com/CalebBal/problem_organizer)
 * Created an algorithm that organizes a list of problems with the commands given using linked lists.
 * Reads an input file that has a list of problems with their ID, Name, and level of difficulty.
 * Sorted each problem using linked lists.
