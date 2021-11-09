@@ -15,3 +15,6 @@
 * Shorted all the commands based on the priority level given in the input file.
 * Any commands with a higher priority before the coded message was read is disregarded.
 * Printed the decoded message to an output file once all commands have been read.
+
+![](https://github.com/CalebBal/Caleb_Portfolio/blob/main/images/Screenshot%202021-11-09%20112910.png)
+![](https://github.com/CalebBal/Caleb_Portfolio/blob/main/images/Screenshot%202021-11-09%20112926.png)
